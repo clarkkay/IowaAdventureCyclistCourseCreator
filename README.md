@@ -1,9 +1,9 @@
-#Welcome to your Expo app 👋
+# Welcome to your Expo app 👋
 
 Hello! Welcome to our Senior Design Project for SD May 2025. This is an expo application, and the following contents of this read me will walk you through running the application.
 Additionally, you may want to refer to our website where you can find a link to the teams Notion page. This page served as the main piece of documentation for our project and holds all info regarding the project itself.
 
-G#et Started
+# Get Started
 
 
 #Install Dependencies
