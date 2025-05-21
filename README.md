@@ -12,22 +12,22 @@ npm install --legacy-peer-deps
 If you have issues with this install (errors that are fail this from building) you may run in to having to install certain packages individually and add on --legacy-peer-deps for success
 
 
-#On the server
+# On the server
 View in the notion page https://www.notion.so/Server-Information-13519e0800c280efa7aec7665f4b0181
 
 
-#Within the backend
+# Within the backend
 cd Backend → npx tsc → cd dist\src\ → node .\index.js
 node ./index.js if on mac ^
 
 
-#Run the frontend
+# Run the frontend
 npm start
 Download expo go on your phone, scan the qr code, and you should be good to go!
 
 
 
-#Restarting from scratch on the server?
+# Restarting from scratch on the server?
 
 Well this sucks.. First step is to set up a sql server! You will adjust the .env in the backend to have the correct IP and login info for the sql server.
 Create tables
